@@ -26,7 +26,7 @@ printf ("Digite o Estado da Carta 1:\n");
  printf("\n");
 
  printf ("Digite o População da Carta 1:\n");
- scanf("%d", &populacao1);
+ scanf("%ld", &populacao1);
  printf("\n");
 
 printf ("Digite o Área da Carta 1:\n");
@@ -59,7 +59,7 @@ printf ("Digite o Nome da Cidade da Carta 2:\n");
  printf("\n");
 
 printf ("Digite o População da Carta 2:\n");
- scanf("%d", &populacao2);
+ scanf("%ld", &populacao2);
  printf("\n");
 
 printf ("Digite o Área da Carta 2:\n");
